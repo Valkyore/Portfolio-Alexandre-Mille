@@ -1,29 +1,43 @@
 # Portfolio CEF Alex Mille
 
-This template should help get you started developing with Vue 3 in Vite.
+Bienvenue sur le projet de mon portfolio.
+Ce Readme vous aidera à installer et ouvrir ce projet.
 
-## Recommended IDE Setup
+## IDE utiliser pour ce projet
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+[VSCode](https://code.visualstudio.com/) + [Node.js](https://nodejs.org/)
 
-## Customize configuration
+## Cloner le projet
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Lien du clone : [https://github.com/HugoMelin/Projet_CEF_Portfolio.git](https://github.com/Valkyore/Portfolio-Alexandre-Mille.git)
 
-## Project Setup
+1- Ovrez votre terminal dans un nouveau dossier où vous voulez cloner le projet.
 
+2- Taper "git clone" et copier l'URL ci-dessus.
 ```sh
-npm install
+git clone https://github.com/Valkyore/Portfolio-Alexandre-Mille.git
 ```
 
-### Compile and Hot-Reload for Development
+3- Presser "Entrer" pour créer un clone local.
+
+## Installer npm 
+
+Pour lancer le projet, vous devez installer npm dans le fichier pour ce faire.
+
+1- Rentrez dans le dossier cloner.
+```sh
+cd Projet_CEF_Portfolio
+```
+
+2- Installez le package.
+```sh
+install npm
+```
+
+## Lancer le projet
+
+Une fois cloné et npm installé, vous pourrez compiler et lancer le projet en entrant la commande.
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
