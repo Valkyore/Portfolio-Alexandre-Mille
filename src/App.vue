@@ -36,7 +36,7 @@ body{
     padding: 20px;
     text-align: center;
     width: 100%;
-    position: fixed; /* or position: sticky; depending on your needs */
+    position: fixed;
     bottom: 0;
 }
 </style>
